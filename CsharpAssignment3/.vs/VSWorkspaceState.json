@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Interfaces",
+    "\\PredatorPreySim"
+  ],
+  "SelectedNode": "\\Core\\Interfaces\\ICreatureService.cs",
+  "PreviewInSolutionExplorer": false
+}

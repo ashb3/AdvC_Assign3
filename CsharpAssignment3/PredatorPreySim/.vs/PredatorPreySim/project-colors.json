@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f036680c-1279-438f-8c1a-0c0164561fc4": {
+      "ProjectGuid": "f036680c-1279-438f-8c1a-0c0164561fc4",
+      "DisplayName": "PredatorPreySim",
+      "ColorIndex": 0
+    },
+    "6a276f49-c01e-4df1-970e-f0204ec491cc": {
+      "ProjectGuid": "6a276f49-c01e-4df1-970e-f0204ec491cc",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    },
+    "4c2e70ba-6d71-4a12-af2e-ffa9f57f4e1f": {
+      "ProjectGuid": "4c2e70ba-6d71-4a12-af2e-ffa9f57f4e1f",
+      "DisplayName": "Core",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
